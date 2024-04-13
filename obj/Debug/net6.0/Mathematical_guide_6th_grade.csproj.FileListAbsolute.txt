@@ -1,0 +1,17 @@
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\bin\Debug\net6.0\Mathematical_guide_6th_grade.exe
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\bin\Debug\net6.0\Mathematical_guide_6th_grade.deps.json
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\bin\Debug\net6.0\Mathematical_guide_6th_grade.runtimeconfig.json
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\bin\Debug\net6.0\Mathematical_guide_6th_grade.dll
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\bin\Debug\net6.0\Mathematical_guide_6th_grade.pdb
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\obj\Debug\net6.0\Mathematical_guide_6th_grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\obj\Debug\net6.0\Mathematical_guide_6th_grade.AssemblyInfoInputs.cache
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\obj\Debug\net6.0\Mathematical_guide_6th_grade.AssemblyInfo.cs
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\obj\Debug\net6.0\Mathematical_guide_6th_grade.csproj.CoreCompileInputs.cache
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\obj\Debug\net6.0\Mathematical_guide_6th_grade.dll
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\obj\Debug\net6.0\refint\Mathematical_guide_6th_grade.dll
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\obj\Debug\net6.0\Mathematical_guide_6th_grade.pdb
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\obj\Debug\net6.0\Mathematical_guide_6th_grade.genruntimeconfig.cache
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\obj\Debug\net6.0\ref\Mathematical_guide_6th_grade.dll
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\obj\Debug\net6.0\Mathematical_guide_6th_grade.csproj.AssemblyReference.cache
+C:\Users\Kovallina\source\repos\Mathematical_guide_6th_grade\obj\Debug\net6.0\Mathemat.3807508E.Up2Date
